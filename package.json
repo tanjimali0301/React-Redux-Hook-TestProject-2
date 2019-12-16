@@ -1,16 +1,16 @@
 {
-  "name": "react-movie-searcher",
+  "name": "React-Redux-Hook-TestProject-2",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "http://arthur199212.github.io/react-movie-searcher",
+  "homepage": "http://codecpro.github.io/React-Redux-Hook-TestProject-2",
   "scripts": {
     "start": "webpack-dev-server --mode development --open --port 4000 --compress --progress",
     "build": "webpack --mode production --progress",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
-  "author": "Arthur Rubchenko",
+  "author": "Coder",
   "license": "MIT",
   "dependencies": {
     "@material-ui/core": "^4.6.0",
